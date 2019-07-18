@@ -1,11 +1,11 @@
 # Site settings
-author: angelregis09
-title: 
+author: Angel Regis
+title: Coding My New Love
 header-img: img/home-bg.png
 email: angelregis09@gmail.com
-copyright_name: angelregis09
+copyright_name: Angel Regis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Who Said You Can't Learn To Code At 48
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  femmetech
